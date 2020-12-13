@@ -693,7 +693,7 @@ section {
 
 .testimonials .testimonial-item .testimonial-img {
   width: 90px;
-  border-radius: 50%;
+  border-radius: 10px;
   margin: 0 auto;
 }
 
@@ -793,15 +793,15 @@ section {
   font-size: 20px;
   color: #149ddd;
   float: left;
-  width: 66px;
-  height: 66px;
+  width: 55px;
+  height: 55px;
   background: #eee;
   display: flex;
   justify-content: center;
   align-items: center;
   border-radius: 50px;
   transition: all 0.3s ease-in-out;
-  margin: 0 15px 0 0;
+  margin: 0 10px 0 0;
 }
 
 .contact .info h4 {
@@ -1129,7 +1129,7 @@ Additional
 */
 
 .icon-sosial{
-  width: 2.5em;
+  width: 2em;
   padding: 6px;
 }
 
