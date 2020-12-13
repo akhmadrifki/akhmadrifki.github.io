@@ -334,10 +334,12 @@ section {
 .card {
   margin: 1em;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+  border-radius: 0.5em;
 }
 
 .card-body {
   background: #F9F9F9;
+  border-radius: 0.5em;
 }
 
 /*--------------------------------------------------------------
@@ -604,7 +606,7 @@ section {
   text-align: center;
   background: rgba(20, 157, 221, 0.75);
   transition: 0.3s;
-  width: 50%;
+  width: 100%;
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
